@@ -1,0 +1,23 @@
+{
+  "name": "project-basic-informational-site",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/46tcampbell/Project-Basic-Informational-Site#readme",
+  "bugs": {
+    "url": "https://github.com/46tcampbell/Project-Basic-Informational-Site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/46tcampbell/Project-Basic-Informational-Site.git"
+  },
+  "license": "ISC",
+  "author": "Thomas Campbell <tom.campbell.101@gmail.com>",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
